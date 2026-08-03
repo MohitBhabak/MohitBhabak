@@ -5,7 +5,7 @@
 
 <!-- Typing Effect Header (Wider width to prevent clipping) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Systems+Design+Engineering+%40+University+of+Waterloo+%F0%9F%8E%93;Ex-BitGo+%7C+Autodesk+%7C+Jeeves+(YC+S20)+%7C+Delta+Air+Lines+%F0%9F%9A%80;Bridging+Software+Engineering%2C+Data+%26+Product+UX;Building+high-impact+digital+products+%26+AI-driven+systems+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Systems+Design+Engineering+%40+University+of+Waterloo+%F0%9F%8E%93;BitGo+%7C+Autodesk+%7C+Jeeves+(YC+S20)+%7C+Delta+Air+Lines+%F0%9F%9A%80;Bridging+Software+Engineering%2C+Data+%26+Product+UX;Building+high-impact+digital+products+%26+AI-driven+systems+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
