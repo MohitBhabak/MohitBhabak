@@ -3,9 +3,9 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Mohit%20Bhabak&fontSize=58&fontColor=ffffff&animation=twinkling&desc=Systems%20Design%20Engineering%20@%20UWaterloo%20%7C%20Technical%20PM&descSize=20&descAlign=50&descAlignY=70" width="100%" />
 
-<!-- Typing Effect Header -->
+<!-- Typing Effect Header (Wider width to prevent clipping) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Systems+Design+Engineering+%40+University+of+Waterloo+%F0%9F%8E%93;Ex-BitGo+%7C+Autodesk+%7C+Jeeves+(YC+S20)+%7C+Delta+Air+Lines+%F0%9F%9A%80;Bridging+Software+Engineering%2C+Data+%26+Product+UX;Building+high-impact+digital+products+%26+AI-driven+systems+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Systems+Design+Engineering+%40+University+of+Waterloo+%F0%9F%8E%93;Ex-BitGo+%7C+Autodesk+%7C+Jeeves+(YC+S20)+%7C+Delta+Air+Lines+%F0%9F%9A%80;Bridging+Software+Engineering%2C+Data+%26+Product+UX;Building+high-impact+digital+products+%26+AI-driven+systems+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -22,29 +22,11 @@
 
 ### 💫 About Me
 
-```javascript
-const mohit = {
-  education: "BASc Systems Design Engineering @ University of Waterloo ('28) 🎓",
-  experience: [
-    "Product Manager Intern, Growth @ BitGo (Palo Alto)",
-    "Technical PM Intern, Compliance @ Autodesk (Toronto)",
-    "Product Manager Intern, Credit Cards @ Jeeves (YC S20 + a16z)",
-    "Product Manager Intern, Airport Software @ Delta Air Lines (Atlanta)"
-  ],
-  ventures: [
-    "Lead PM @ Civioniks ($35k+ structural data analysis platform)",
-    "PM @ iCommute (Gamified rewards ecosystem for City of Markham)"
-  ],
-  coreSuperpower: "Fusing technical depth (SQL, Python, C++) with UX & data discovery ⚡",
-  funFact: "US/Canada Dual Citizen who loves designing human-centered systems 🇨🇦🇺🇸"
-};
-```
-
-* 🎓 **Education**: Systems Design Engineering student at **University of Waterloo** (Honours Co-op, '28).
-* 🏢 **Track Record**: Previously launched AI/ML initiatives at **Autodesk**, growth UI/UX features at **BitGo**, developer APIs at **Jeeves (YC S20)**, and mission-critical software at **Delta Air Lines**.
-* 🚀 **Entrepreneurship**: Led product strategy for **Civioniks** (structural data analysis) and **iCommute** (Markham transit pilot).
-* 🔬 **Technical Interests**: AI/ML products, Data Discovery (SQL/Snowflake), API Systems, User Analytics & Responsive Web Apps.
-* 💬 **Ask me about**: Systems Design, Product Lifecycle (0-to-1), Data Analytics, Figma UI Prototyping, and React/JS Development.
+* 🎓 **Education**: Systems Design Engineering student at the **University of Waterloo** (Honours Co-op, Class of 2028).
+* 🏢 **Track Record**: Product Management Internships across **BitGo**, **Autodesk**, **Jeeves (YC S20)**, and **Delta Air Lines**.
+* ⚡ **Core Focus**: Bridging software engineering (SQL, Python, C++), data analytics, and user experience design (Figma).
+* 🇨🇦🇺🇸 **Identity**: US/Canada Dual Citizen passionate about building human-centered digital products and scalable systems.
+* 💬 **Ask me about**: Systems Design, AI/ML product lifecycle, API strategy, and frontend architecture.
 
 ---
 
@@ -105,24 +87,8 @@ const mohit = {
 
 | Project | Description | Stack / Tools | Link |
 | :--- | :--- | :--- | :---: |
-| 🏙️ **Ontario City Finder** | Geospatial city discovery app filtering demographic, population & economic data | `React` `Vite` `Leaflet` `Tailwind` | [View Repo](https://github.com/MohitBhabak/city-finder-app) |
-| 🏗️ **Civioniks Platform** | Structural data analysis platform designed for enterprise engineering clients | `Python` `SQL` `Product Architecture` | [View Project](https://github.com/MohitBhabak) |
-| 🎮 **iCommute Ecosystem** | Gamified rewards platform designed for Markham's transit pilot rollout | `Figma` `UX Wireframing` `Analytics` | [View Project](https://github.com/MohitBhabak) |
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohitBhabak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitBhabak&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitBhabak&theme=tokyonight&hide_border=true" />
-
-</div>
+| 🏙️ **Ontario City Finder** | Interactive city discovery app filtering demographic, population & economic data | `React` `Vite` `Leaflet` `Tailwind` | [View Repo](https://github.com/MohitBhabak/city-finder-app) |
+| 🏋️‍♂️ **Gym Tracker App** | Fitness & workout tracking app built for real-time progress logging & routines | `React` `TypeScript` `Tailwind` | [View Project](https://github.com/MohitBhabak) |
 
 ---
 
