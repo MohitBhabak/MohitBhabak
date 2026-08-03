@@ -22,7 +22,7 @@
 
 ### 💫 About Me
 
-* 🎓 **Education**: Systems Design Engineering student at the **University of Waterloo** (Honours Co-op, Class of 2028).
+* 🎓 **Education**: Systems Design Engineering student at the **University of Waterloo**.
 * 🏢 **Track Record**: Product Management Internships across **BitGo**, **Autodesk**, **Jeeves (YC S20)**, and **Delta Air Lines**.
 * ⚡ **Core Focus**: Bridging software engineering (SQL, Python, C++), data analytics, and user experience design (Figma).
 * 🇨🇦🇺🇸 **Identity**: US/Canada Dual Citizen passionate about building human-centered digital products and scalable systems.
@@ -75,7 +75,7 @@
 
 ### 🎓 Education & Certifications
 
-* **University of Waterloo** — BASc in **Systems Design Engineering**, Honours (Co-op) *(Exp. Apr 2028)*
+* **University of Waterloo** — BASc in **Systems Design Engineering**
   * *Relevant Coursework*: C++, Data Structures & Algorithms, Solidworks, IT Infrastructure, CX Design, Human Factors.
 * 📜 **Google Project Management** Professional Certificate
 * 📜 **Cisco** Data Analysis Certification
