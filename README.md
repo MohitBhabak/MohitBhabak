@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitbhabak)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohit.bhabak06@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/MohitBhabak?label=Followers&style=for-the-badge&color=238636&logo=github)](https://github.com/MohitBhabak?tab=followers)
-![Location](https://img.shields.io/badge/Location-Waterloo%20%7C%20Toronto%20%7C%20Palo%20Alto-111827?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Waterloo%20%7C%20Toronto-111827?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
