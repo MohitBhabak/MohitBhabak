@@ -88,7 +88,7 @@
 | Project | Description | Stack / Tools | Repository | Live Demo |
 | :--- | :--- | :--- | :---: | :---: |
 | 🏙️ **Ontario City Finder** | Interactive city discovery app filtering demographic, population & economic data | `React` `Vite` `Leaflet` `Tailwind` | [GitHub Repo](https://github.com/MohitBhabak/city-finder-app) | [Live App 🌐](https://city-finder-app-ivory.vercel.app/) |
-| 🏋️‍♂️ **Gym Tracker App** | Fitness & workout tracking app built for real-time progress logging & routines | `React` `TypeScript` `Tailwind` | [GitHub Repo](https://github.com/MohitBhabak) | [Live App 🌐](https://gymtracker-eight-delta.vercel.app/) |
+| 🏋️‍♂️ **Gym Tracker App** | Fitness & workout tracking app built for real-time progress logging & routines | `React` `TypeScript` `Tailwind` | [GitHub Repo](https://github.com/MohitBhabak/gymtracker) | [Live App 🌐](https://gymtracker-eight-delta.vercel.app/) |
 
 ---
 
